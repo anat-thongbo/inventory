@@ -1,0 +1,46 @@
+body{
+    font-family: 'Kanit', sans-serif;
+}
+
+.themecolor1{
+    background-color: teal;
+    color: white;
+}
+.themecolor1 > ul > li > a , .themecolor1 > a{
+   
+    color: white;
+}
+.themecolor2{
+    background-color: rgb(0, 70, 92);
+    color: white;
+} 
+.themecolor2 > ul > li > a , .themecolor2 > a{
+   
+    color: white;
+}
+.themecolor3{
+    background-color: rgb(61, 152, 212);
+    color: white;
+} 
+.themecolor3 > ul > li > a , .themecolor3 > a{
+    color: white; 
+}
+
+.themecolor4{
+    background-color: rgb(207, 241, 11);
+    color: rgb(0, 0, 0);
+} 
+.themecolor4 > ul > li > a , .themecolor4 > a{
+   
+    color: rgb(0, 0, 0);
+}
+.themecolor5{
+    background-color: rgb(255, 74, 74);
+    color: rgb(0, 0, 0);
+} 
+.themecolor5 > ul > li > a , .themecolor5 > a{
+   
+    color: rgb(0, 0, 0);
+}
+
+
